@@ -1,0 +1,23 @@
+{
+  "name": "projekt_initialisieren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Systemixx/Projekt_Initialisieren.git"
+  },
+  "author": "Chris N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Systemixx/Projekt_Initialisieren/issues"
+  },
+  "homepage": "https://github.com/Systemixx/Projekt_Initialisieren#readme",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "express": "^4.19.2"
+  }
+}
